@@ -3,9 +3,13 @@
     "version": "0.0.1",
     "description": "Backend socket application for chat application",
     "dependencies": {
+        "aes256": "^1.1.0",
         "colors": "^1.4.0",
         "cors": "^2.8.5",
         "express": "^4.17.1",
+        "react-redux": "^7.2.4",
+        "react-router-dom": "^5.2.1",
+        "redux": "^4.1.1",
         "socket.io": "^4.2.0"
     },
     "devDependencies": {
